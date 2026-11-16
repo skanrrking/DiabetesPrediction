@@ -31,7 +31,7 @@ My own idea. It is not one of the suggested projects.
 
 ## How it works
 
-**Data.** The CDC Diabetes Health Indicators dataset: 253,680 responses from adults to a 2015 US health phone survey, with 21 questions each. About 14% report diabetes or prediabetes. The data has no missing values and I used it as provided. I held out 20% (50,736 people) as test data the model never saw.
+**Data.** The CDC Diabetes Health Indicators dataset: 253,680 responses from adults to a 2015 US health phone survey, with 21 questions each. About 14% report diabetes or pre-diabetes. The data has no missing values and I used it as provided. I held out 20% (50,736 people) as test data the model never saw.
 
 **Model.** I compared three models on all 21 questions: a random forest, XGBoost and logistic regression. The random forest caught only 15% of cases. XGBoost and logistic regression were close (ranking scores, area under the ROC curve, of 0.827 and 0.820), so I chose logistic regression, because I can show exactly how each answer changes the score. The rarer diabetes group is weighted up so the model does not ignore it.
 
@@ -84,7 +84,7 @@ Going from five questions to nine or 21 mainly removes a few hundred false alarm
 
 **AI tools**
 
-- ChatGPT: used to plan the project, draft code, and help interpret results. I ran all the code myself and can explain every part.
+- ChatGPT: used to plan the project, draft code, and help interpret results.
 
 **Links**
 
