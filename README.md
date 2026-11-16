@@ -1,7 +1,6 @@
 # Five Questions: a short diabetes screening form
 
 **Aarav Jain**
-Nov 15, 2026 
 
 **Track:** Health
 
