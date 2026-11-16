@@ -88,4 +88,4 @@ Going from five questions to nine or 21 mainly removes a few hundred false alarm
 **Links**
 
 - Code: [notebook on GitHub](https://github.com/skanrrking/DiabetesPrediction/blob/main/Logistic_Regression_Diabetes_Checkup_Predictor.ipynb), or [open it in Colab](https://colab.research.google.com/github/skanrrking/DiabetesPrediction/blob/main/Logistic_Regression_Diabetes_Checkup_Predictor.ipynb)
-- Demo video:
+- Demo video: https://youtu.be/xtF9LW-fF3E
